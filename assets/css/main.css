@@ -3026,7 +3026,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/abcd1.jpg");
+		background-image: url("images/overlay.png"), url("../../images/backgroundcity.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
