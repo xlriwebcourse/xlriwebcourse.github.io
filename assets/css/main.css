@@ -3049,7 +3049,8 @@
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
-			font-family: "Quicksand";
+			/*font-family: "Quicksand";*/
+			font-family: "Georgia";
 			letter-spacing: 2px;
 		}
 
